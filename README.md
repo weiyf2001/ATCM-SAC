@@ -10,12 +10,12 @@ This repository provides resources related to **ATCM-SAC**. It also includes inf
 ### Description
 The ATCM-SAC framework consists of three parts, including the marine environment model, the USV model and the trajectory planning model.
 ### Figures
-![ATCM-SAC Framework](./img/Figure1.png)
+![ATCM-SAC Framework](./img/Figure_1.png)
 
 ATCM (Adaptive Trajectory Control Module) is designed based on the transformer architecture for advanced feature extraction and adaptive fusion, which enables the agent to dynamically adjust the weight of attention and the allocation of information sources in different scenarios.
 ### Figures
-![ATCM Structure](./img/Figure3a.png)
-
+![ATCM in Policy network](./img/Figure_3a.png)
+![ATCM in Q network](./img/Figure_3b.png)
 
 ### Resources
 - [Baidu Netdisk](https://pan.baidu.com/s/1U2R1KrnvInvzAtw29cwB5A) - Download the visual animated **GIF**： *(Extraction Code: iitx)*  
