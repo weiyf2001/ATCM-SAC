@@ -18,7 +18,7 @@ ATCM (Adaptive Trajectory Control Module) is designed based on the transformer a
 ![ATCM in Q network](./img/Figure_3b.png)
 
 ### Resources
-- [Baidu Netdisk](https://pan.baidu.com/s/1U2R1KrnvInvzAtw29cwB5A) - Download the visual animated **GIF**： *(Extraction Code: iitx)*  
+- [Baidu Netdisk](https://pan.baidu.com/s/1ClB_6mIJgiBmAWDQXZrMwA?pwd=na3h) - Download the visual animated **GIF**： *(Extraction Code: na3h)*  
 ---
 
 ## 📊 CMEMS Dataset
