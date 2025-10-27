@@ -156,10 +156,13 @@ def generate_bfs_distance_visualization(
     plt.tight_layout()
     plt.show()
 
-    # Convert to tensors
+    # Convert to tensorsW
     D_G = torch.from_numpy(distance_field).float()
     D_L = torch.from_numpy(sub_sub_region).float()
 
+    D_G[torch.isinf(D_G)] = 1.0
+    D_L[torch.isinf(D_L)] = 1.0
+    # print(D_G)
     print(f"D_G tensor shape: {D_G.shape}")
     print(f"D_L tensor shape: {D_L.shape}")
     return D_G, D_L
